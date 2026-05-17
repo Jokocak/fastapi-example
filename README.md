@@ -40,3 +40,27 @@ cd ai-tool-hub
 
 # Using Docker (Recommended)
 docker compose up --build
+```
+
+API will be available at http://localhost:8000
+Chatbot endpoint: POST /chat
+Swagger UI: http://localhost:8000/docs
+
+## Portfolio Integration
+The FastAPI + FastMCP backend is deployed and connected to my portfolio website. The chatbot can be accessed directly on my portfolio page where it combines:
+
+- My personal information (via RAG)
+- Live tool usage through FastMCP
+
+Live Demo: [Link to your portfolio page with chatbot]
+
+## Project Purpose
+This project serves as both a demonstration of my technical skills and an interactive way for recruiters and hiring managers to learn about my background and capabilities.
+
+```txt
+---
+
+This version keeps it simple and professional while clearly explaining the chatbot + RAG + FastMCP integration. It positions the project nicely for job applications.
+
+Would you like me to make any adjustments (e.g., change the project name, make it shorter, or add specific tools/features)?
+```
