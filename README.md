@@ -56,11 +56,3 @@ Live Demo: [Link to your portfolio page with chatbot]
 
 ## Project Purpose
 This project serves as both a demonstration of my technical skills and an interactive way for recruiters and hiring managers to learn about my background and capabilities.
-
-```txt
----
-
-This version keeps it simple and professional while clearly explaining the chatbot + RAG + FastMCP integration. It positions the project nicely for job applications.
-
-Would you like me to make any adjustments (e.g., change the project name, make it shorter, or add specific tools/features)?
-```
